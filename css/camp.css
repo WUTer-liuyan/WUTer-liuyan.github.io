@@ -1,0 +1,107 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+    font-family:STKaiti;
+
+}
+a{
+color: rgb(200, 255, 0);
+}
+a:hover{
+  font-weight: bolder;
+  color: red;
+
+}
+img#touxiang{
+    border: 2px solid #0ff;
+    width:"400px";
+}
+
+.juzhong{
+
+    position: relative;
+    left: 50%;
+    margin-left :-200px;;
+    
+}
+
+#title{
+    
+    font-size: 50px;
+    font-weight: 900;
+    width: 500px;
+    margin :0 auto;
+    color: hsl(192, 65%, 81%);
+    text-shadow:5px 5px rgb(97, 36, 211);
+}
+
+html{
+    background-image: url(https://pic4.zhimg.com/v2-ea96501edb74e6e1231589c29ff9ded1_r.jpg?source=1940ef5c   
+);
+
+} 
+
+.background{
+
+    background-repeat: no-repeat;
+    
+    background-size: 100% 100%;
+
+}
+
+
+
+
+#woc {
+background-image:  url(https://tse3-mm.cn.bing.net/th/id/OIP-C.MsTw974TTT3VR_syOwROMQHaEK?pid=ImgDet&rs=1);    
+opacity: 0.9;
+color: rgb(255, 255, 255);
+position : absolute ;
+width: 70%;
+height: 900px;
+text-shadow: 1px 1px rgb(0, 0, 0);
+border: 3px  solid #000;
+margin: 0% 15%;
+
+}
+
+.suojin{
+text-indent: 2ex;
+
+}
+
+.jianjie{
+    font-size: 28px ;
+    font-family: Microsoft YaHei;
+
+
+}
+
+#denglu{
+    position: fixed;
+    top: 50px;
+
+}
+
+#denglu:hover{
+background-color: rgb(0, 0, 0);
+opacity: 0.9;
+border-radius: 10%;
+font-weight: 900;
+}
+#email{
+    width: 20;
+    font-size: 20px;
+    padding: 0px;
+    color: azure;
+    
+    position: fixed;
+    right: 0%;
+    top:50%;
+    margin: 10px;
+    border-radius: 15%;
+
+
+
+}
