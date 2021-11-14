@@ -1,0 +1,72 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+    font-family:STKaiti;
+    padding: 0px;
+    color: white;
+
+}
+
+ul{
+    width: 1212px;
+     position:absolute;
+    left: 50%;
+    margin: 5% -606px;
+}
+
+h1{
+    width: 400px;
+    position:relative;
+    left: 50%;
+    margin-left: -200px;
+    font-size: 70px;
+    text-shadow: 1px 2px whitesmoke;
+    
+}
+
+
+
+h2{
+    font-size: 40px;
+    width: 350px;
+    position: absolute;
+    right: 15%;
+    text-shadow: 1px 2px rgb(240, 76, 76);
+
+
+}
+
+
+
+
+img{
+    width: 600px;
+    height: 300px;
+border: 3px solid #ffffff; 
+
+
+}
+
+body{
+
+    background-image: url(https://nie.res.netease.com/r/pic/20211104/39a71357-380e-4c55-a515-add64b1539e1.jpg);
+    background-size:  101%;
+    /* background-repeat: no-repeat; */
+    object-fit: cover;
+
+}
+
+
+
+#back{
+
+position: fixed;
+right: 0%;
+top: 90%;
+
+}
+a:hover{
+    color: #f40;
+    font-weight: bold;
+}
